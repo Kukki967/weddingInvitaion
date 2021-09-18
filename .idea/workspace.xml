@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e359c46e-999d-45af-9182-8138b70a60f2" name="Default Changelist" comment="" />
+    <list default="true" id="e359c46e-999d-45af-9182-8138b70a60f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/image/dev_darshan.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/lunch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/phere.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/reception.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/weedingInvitaion.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/weedingInvitaion.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/menikah.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/menikah.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/menikah.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/menikah.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -16,11 +33,20 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/image" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/image" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -31,6 +57,10 @@
       <option name="presentableId" value="Default" />
       <updated>1630505781438</updated>
       <workItem from="1630505782683" duration="14000" />
+      <workItem from="1630505830680" duration="508000" />
+      <workItem from="1630554384935" duration="3119000" />
+      <workItem from="1630945997854" duration="5813000" />
+      <workItem from="1631976881186" duration="6825000" />
     </task>
     <servers />
   </component>

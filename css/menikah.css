@@ -22,10 +22,11 @@ html {
 .navbar-item {
   line-height: 38px;
   font-weight: 600;
+  /*
   text-transform: ;
+  */
   letter-spacing: 1px;
   font-size: 1rem;
-  box-shadow:  ;
 }
 
 .navbar-item.is-active{
@@ -35,7 +36,6 @@ html {
 .a.navbar-item{
   font-color: #996E6D;
 }
-
 
 .hero {
   background-image: url(https://picsum.photos/id/25/1920/1080);
@@ -90,9 +90,17 @@ html {
 .hero .hero-foot .hero-foot--wrapper .hero-menu-desktop {
   line-height: 38px;
   font-weight: 600;
+  /*
   text-transform: ;
+  */
   letter-spacing: 1px;
   font-size: 1rem;
+}
+#menu ul{
+  list-style: none;
+}
+#menu li{
+  display: inline;
 }
 
 .hero .hero-foot .hero-foot--wrapper .hero-menu-desktop ul li {
@@ -125,8 +133,10 @@ html {
 }
 
 .main-content {
+  /*
   padding-top: 2rem;
-  color: #000; 
+  */
+  color: #000;
   font-family: 'Raleway', sans-serif;
 }
 
@@ -334,7 +344,9 @@ vertical-align: middle;
 .tempat {
   font-size: 1.4rem;
   font-family: 'Raleway', sans-serif;
+  /*
   font-size: ;
+  */
   margin-bottom: 50px;
 }
 
@@ -469,24 +481,6 @@ body.preloader-site {
   margin: 1rem;
 }
 
-
-.btn-whatsapp {
-  background-color: #6cc751;
-  width:  210px;
-  height: 65px;
-  color: white;
-  font-size: 1.2rem;
-  border-radius: 10px;  
-  border-left: 1px solid #6cc751;
-  border-right: 1px solid #6cc751;
-  border-top: 1px solid #6cc751;
-  border-bottom: 1px solid #6cc751;
-  align-items: center;
-  margin: 1rem;
-
-}
-
-
 .btn-cta:hover {
   color:white;
   background-color: #bf7877;
@@ -523,29 +517,6 @@ body.preloader-site {
   margin: 0.1rem;
 
 }
-
-.voucher-code {
-  height: 55px;
-  max-width: 180px;
-  border: 2px solid #26ade4;
-  border-radius: 10px 0 0 10px  ;
-  font-size: 24px;
-  padding: 15px;
-}
-
-.btn-voucher-code {
-  height: 55px;
-  min-width: 100px;
-  border: 2px solid #26ade4;
-  background-color: #26ade4;
-  border-radius: 0 10px 10px 0;
-  font-size: 20px;
-  padding: 0;
-  margin: 0;
-  vertical-align: middle;
-  color: white;
-}
-
 .fa-copy {
   margin-right: 5px;
 }
@@ -565,7 +536,7 @@ body.preloader-site {
 
 
 .foto1 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/sherly-daeng-kang-emil.jpg");
+  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/aastha_shashank_wed_logo.png");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -574,7 +545,7 @@ body.preloader-site {
 
 
 .foto2 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/sherly-daeng-cashbac.jpg");
+  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/aastha_shashank_wed_logo.png");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -582,7 +553,7 @@ body.preloader-site {
 }
 
 .foto3 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/sherly-daeng-selfie.jpg");
+  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/aastha_shashank_wed_logo.png");
   background-size: cover;
   background-position: top;
   background-repeat:no-repeat;
@@ -590,7 +561,7 @@ body.preloader-site {
 }
 
 .foto4 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/sherly-daeng-lamaran.jpg");
+  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/aastha_shashank_wed_logo.png");
   background-size: cover;
   background-position: top;
   background-repeat:no-repeat;
@@ -598,7 +569,7 @@ body.preloader-site {
 }
 
 .foto5 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/sherly-daeng-red-car.jpg");
+  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/aastha_shashank_wed_logo.png");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -607,11 +578,11 @@ body.preloader-site {
 
 
 .foto6 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/sherly-daeng-engagement-ami.jpg");
+  background-image: url("../image/aastha_shashank_wed_logo.png");
   background-size: cover;
-  background-position: center;
+  background-position: left;
   background-repeat:no-repeat;
-  min-height: 24rem;
+  min-height: 20px;
 }
 
 
@@ -627,7 +598,6 @@ body.preloader-site {
 
 .subtitle-foto {
   font-family: 'Lato', sans-serif;
-  font-weight: 700;
   font-size: 14pt;
   font-weight: 600;
   margin-top: 15px;
