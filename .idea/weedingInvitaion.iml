@@ -9,5 +9,8 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="bulma" level="application" />
+    <orderEntry type="library" name="2828f7885a" level="application" />
+    <orderEntry type="library" name="bulma-tooltip" level="application" />
+    <orderEntry type="library" name="jquery" level="application" />
   </component>
 </module>
