@@ -2,30 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e359c46e-999d-45af-9182-8138b70a60f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/image/barat_sawagat.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/phere.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/language/en.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/language/hi.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/weedingInvitaion.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/weedingInvitaion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/homepage.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/homepage.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/menikah.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/menikah.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/bismillah.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/cashbac-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/cashbac-mobile-app-teaser.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/dev_darshan.svg" beforeDir="false" afterPath="$PROJECT_DIR$/image/dev_darshan.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/dev_darshan_filled.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/download-appstore.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/download-playstore.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/reception.svg" beforeDir="false" afterPath="$PROJECT_DIR$/image/reception.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/sherly-daeng-cashbac.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/sherly-daeng-engagement-ami.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/sherly-daeng-kang-emil.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/sherly-daeng-lamaran.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/sherly-daeng-red-car.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/sherly-daeng-selfie.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/sherly-daeng-wedding-thumbnail.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/thumbnail-web-sherly-daeng-menikah.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homepage.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/homepage.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,17 +37,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/image" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
       <recent name="$PROJECT_DIR$/image" />
       <recent name="$PROJECT_DIR$/language" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/js" />
       <recent name="$PROJECT_DIR$/image" />
+      <recent name="$PROJECT_DIR$/js" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -83,7 +65,7 @@
       <workItem from="1630554384935" duration="3119000" />
       <workItem from="1630945997854" duration="5813000" />
       <workItem from="1631976881186" duration="9848000" />
-      <workItem from="1632028641190" duration="10490000" />
+      <workItem from="1632028641190" duration="17155000" />
     </task>
     <servers />
   </component>

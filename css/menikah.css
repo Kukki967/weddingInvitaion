@@ -36,32 +36,14 @@ html {
 .a.navbar-item{
   font-color: #95DAC1;
 }
-
+/*    linear-gradient(rgba(153, 110, 109, 0.65), rgba(153, 110, 109, 0.65))
+ */
 .hero {
-  background-image: url(https://picsum.photos/id/25/1920/1080);
-  background: linear-gradient(rgba(153, 110, 109, 0.65), rgba(153, 110, 109, 0.65)), rgba(0, 0, 0, 0.55) url("https://picsum.photos/id/381/1920/1080") no-repeat;
-  background-attachment: fixed;
+  background: rgba(0, 0, 0, 0.55) url('homepage.svg') no-repeat fixed;
   background-size: cover;
   color: white;
   box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
   font-family: 'Raleway', sans-serif;
-}
-
-
-
-.hero .title {
-  font-family: 'Rouge Script', sans-serif;
-  font-weight: 700;
-  transform: rotate(-2deg);
-  font-size: 5rem;
-  padding-bottom: 5px;
-  color: whitesmoke;
-}
-
-.hero .subtitle {
-  padding: 35px;
-  color: whitesmoke;
-  font-size: 1.3rem;
 }
 
 
@@ -193,6 +175,10 @@ html {
   color: #22577A;
 
 }
+.titleS {
+  font-size: 1.5rem;
+  color: #22577A;
+}
 .sloganText {
   font-size: 15px;
   color: #22577A;
@@ -202,34 +188,22 @@ html {
   color: #E05D5D;
 }
 
-
-.hero .tempatwaktu {
-  padding-top: 35px;
-  font-size: 1.3rem;
-
-}
-/*** font style end ***/
-
-.waktu {
-  font-size: 1.4rem;
-  font-family: 'Raleway', sans-serif;
-}
-
-.tanggal-angka {
+.hero .title {
+  font-family: 'Rouge Script', sans-serif;
+  font-weight: 700;
+  transform: rotate(-2deg);
   font-size: 5rem;
-  font-family: 'Raleway', sans-serif;
-  font-weight: 900;
-  line-height: 1;
+  padding-bottom: 5px;
+  color: whitesmoke;
 }
 
-.tempat {
-  font-size: 1.4rem;
-  font-family: 'Raleway', sans-serif;
-  /*
-  font-size: ;
-  */
-  margin-bottom: 50px;
+.hero .subtitle {
+  padding: 35px;
+  color: whitesmoke;
+  font-size: 1.3rem;
 }
+
+
 
 
 .has-vertically-align {
@@ -255,21 +229,12 @@ html {
   vertical-align: middle;
 }
 
+/*** font style end ***/
 
 .main-content .no-padding-top {
   padding-top: 0px;
 }
 
-.footer img{
-  margin: 10px 0px 10px 10px;
-  display: inline-block;
-  max-height: 24px;
-  vertical-align: middle;
-}
-
-.footer a .nav-item {
-  color: whitesmoke;
-}
 
 .divider {
   margin: 40px 25px;
