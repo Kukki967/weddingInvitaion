@@ -36,8 +36,7 @@ html {
 }
 
 .hero {
-  background-image: url('homepage.svg');
-  background-size: cover;
+  background-image: url('homepage.svg')
   color: white;
   font-family: 'Raleway', sans-serif;
 }
