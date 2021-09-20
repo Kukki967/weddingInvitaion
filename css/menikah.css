@@ -188,6 +188,19 @@ html {
   color: #E05D5D;
 }
 
+.contactIcon {
+  color: #22577A;
+  padding: 4px;
+}
+
+
+.firmName {
+  font-size: 18px;
+  color: #22577A;
+  padding: 4px;
+
+
+}
 .hero .title {
   font-family: 'Rouge Script', sans-serif;
   font-weight: 700;
@@ -203,24 +216,6 @@ html {
   font-size: 1.3rem;
 }
 
-
-
-
-.has-vertically-align {
-  vertical-align: middle;
-}
-
-.footer {
-  bottom: 0;
-  width: 100vw;
-  padding: 10px 10px 10px 10px;
-  line-height: 25px;
-  text-align: center;
-  vertical-align: middle;
-  background: #38A3A5;
-  color: whitesmoke;    
-}
-
 .footer p {
   color: white;
   font-weight: 500;
@@ -231,10 +226,68 @@ html {
 
 /*** font style end ***/
 
-.main-content .no-padding-top {
-  padding-top: 0px;
+.has-vertically-align {
+  vertical-align: middle;
 }
 
+.main-content .no-padding-top {
+  padding-top: 0;
+}
+.fh5co-contact-info ul li.phone:before {
+  font-size: 23px;
+  padding-top: 10px;
+  content: "\e9f4";
+}
+
+
+.footer {
+  bottom: 0;
+  width: 100vw;
+  padding: 10px 10px 10px 10px;
+  line-height: 25px;
+  text-align: center;
+  vertical-align: middle;
+  background: #38A3A5;
+  border-top: 1px solid #ddd;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+  color: whitesmoke;
+}
+
+
+.panel-footer {
+  padding: 10px 15px;
+  background-color: #f5f5f5;
+  border-top: 1px solid #ddd;
+  border-bottom-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+.fh5co-social-icons {
+  margin: 0;
+  padding: 0;
+}
+.fh5co-social-icons li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: -moz-inline-stack;
+  display: inline-block;
+  zoom: 1;
+  *display: inline;
+}
+.fh5co-social-icons li a {
+  display: -moz-inline-stack;
+  display: inline-block;
+  zoom: 1;
+  *display: inline;
+  color: #22577A;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.fh5co-social-icons li a i {
+  font-size: 20px;
+}
 
 .divider {
   margin: 40px 25px;
@@ -242,7 +295,6 @@ html {
   max-height: 60px;
   vertical-align: middle;
 }
-
 
 #toTop {
   height: 50px;

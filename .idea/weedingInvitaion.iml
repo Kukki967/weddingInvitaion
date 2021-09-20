@@ -12,5 +12,6 @@
     <orderEntry type="library" name="2828f7885a" level="application" />
     <orderEntry type="library" name="bulma-tooltip" level="application" />
     <orderEntry type="library" name="jquery" level="application" />
+    <orderEntry type="library" name="aos" level="application" />
   </component>
 </module>
