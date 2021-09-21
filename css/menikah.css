@@ -36,8 +36,8 @@ html {
 }
 
 .hero {
-  background-image: url('homepage.svg')
-  color: white;
+  background-image: url('homepage.svg');
+  background-size: cover;
   font-family: 'Raleway', sans-serif;
 }
 
@@ -207,7 +207,7 @@ html {
 }
 
 .footer p {
-  color: white;
+  color: #22577A;
   font-weight: 500;
   font-size: 10pt;
   display: inline-block;
@@ -237,7 +237,7 @@ html {
   line-height: 25px;
   text-align: center;
   vertical-align: middle;
-  background: #38A3A5;
+  background: #CDF0EA;
   border-top: 1px solid #ddd;
   border-top-right-radius: 5px;
   border-top-left-radius: 5px;
@@ -312,16 +312,18 @@ html {
   background-color: #B8DFD8;
 }
 
+
 ::-webkit-scrollbar {
-  width: 8px;
+  width: 5px;
   background-color: #E8F6EF;
 }
 
 ::-webkit-scrollbar-thumb {
-  box-shadow: inset 0 0 6px #95DAC1;
-  -webkit-box-shadow: inset 0 0 6px #95DAC1;
-  background-color: #B8DFD8;
+  box-shadow: inset 0 0 6px #B8DFD8;
+  -webkit-box-shadow: inset 0 0 6px #B8DFD8;
+  background-color: #95DAC1;
 }
+
 
 body.preloader-site {
   overflow: hidden;
