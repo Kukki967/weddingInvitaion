@@ -14,7 +14,16 @@ html {
   font-family: 'Raleway', Tahoma, sans-serif;
   width: 100%;
   min-height: 100%;
+  overflow-x: hidden;
+
 }
+
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+
+}
+
 
 .header-wrapper {
   padding-bottom: 30px;
@@ -152,7 +161,7 @@ html {
   font-weight: 900;
   color: #22577A;
   font-size: 1.5rem;
-  padding-bottom: 60px;
+  /*padding-bottom: 60px;*/
 }
 
 .bodytext {
@@ -192,7 +201,7 @@ html {
 }
 
 .hero .subtitle-copy {
-  color: #E05D5D;
+  color: #22577A;
   font-size: 1.3rem;
 }
 
@@ -337,15 +346,6 @@ body.preloader-site {
   top: 0;
   left: 0;
   z-index: 9999999;
-}
-
-.preloader-wrapper .preloader {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-  width: 120px;
 }
 
 
