@@ -48,11 +48,11 @@ function scrollFunction() {
 
 // Preloader
 $(document).ready(function($) {
-  $(".preloader-wrapper").fadeOut(1000);
+  $(".preloader-wrapper").fadeOut(10000);
   $("body").removeClass("preloader-site");
 });
 $(window).load(function() {
-  var Body = $("body");
+  const Body = $("body");
   Body.addClass("preloader-site");
 });
 
