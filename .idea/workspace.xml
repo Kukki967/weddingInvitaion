@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e359c46e-999d-45af-9182-8138b70a60f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/homepagetwo.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/menikah.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/menikah.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/reception.svg" beforeDir="false" afterPath="$PROJECT_DIR$/image/reception.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/menikah.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/menikah.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +69,7 @@
       <workItem from="1632133479095" duration="7662000" />
       <workItem from="1632223766425" duration="1810000" />
       <workItem from="1632403117900" duration="3619000" />
+      <workItem from="1632501982070" duration="1866000" />
     </task>
     <servers />
   </component>
