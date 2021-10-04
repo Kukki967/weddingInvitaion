@@ -337,7 +337,16 @@ html, body {
   -webkit-box-shadow: inset 0 0 6px #B8DFD8;
   background-color: #95DAC1;
 }
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  padding: 10px;
+  align-content: center;
+}
 
+.grid-item {
+  text-align: center;
+}
 
 body.preloader-site {
   overflow: hidden;
@@ -477,7 +486,7 @@ body.preloader-site {
 @media screen and (max-width: 480px) {
   .couple-half .groom, .couple-half .bride {
     width: 100%;
-    height: 250px;
+    height: 200px;
     font-size: 1em;
 
   }
