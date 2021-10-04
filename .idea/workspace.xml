@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e359c46e-999d-45af-9182-8138b70a60f2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/friends/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/friends/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/menikah.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/menikah.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,13 +40,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/friends" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/friends" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/friends" />
       <recent name="$PROJECT_DIR$/css" />
       <recent name="$PROJECT_DIR$/image" />
       <recent name="$PROJECT_DIR$/language" />
@@ -83,6 +82,7 @@
       <workItem from="1633327575720" duration="1573000" />
       <workItem from="1633329875046" duration="194000" />
       <workItem from="1633330086057" duration="1718000" />
+      <workItem from="1633332035517" duration="540000" />
     </task>
     <servers />
   </component>
