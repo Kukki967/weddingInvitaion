@@ -46,9 +46,8 @@ html, body {
 
 
 .hero {
-  background-image: url('homePage.svg');
+  background-image: url('homepage.svg');
   background-size: cover;
-  font-family: 'Raleway', sans-serif;
 }
 
 .hero_ {
@@ -165,7 +164,6 @@ html, body {
   color: #22577A;
   padding: 4px;
 }
-
 
 .firmName {
   font-size: 18px;
