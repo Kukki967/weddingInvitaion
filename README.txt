@@ -1,6 +1,6 @@
 # Wedding Web Page - Aastha and Shashank
 
-https://kukki967.github.io/weedingInvitaion/
+https://kukki967.github.io/weddingInvitaion/
 
 # Credits
 
