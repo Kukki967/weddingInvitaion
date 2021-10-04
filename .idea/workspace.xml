@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e359c46e-999d-45af-9182-8138b70a60f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/aastha.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/jons_img1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/jons_img2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/shashank.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/menikah.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/menikah.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/freinds.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,20 +53,20 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/css" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/friends" />
       <recent name="$PROJECT_DIR$/image" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$/friends" />
       <recent name="$PROJECT_DIR$/language" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/css" />
       <recent name="$PROJECT_DIR$/image" />
+      <recent name="$PROJECT_DIR$/css" />
       <recent name="$PROJECT_DIR$/js" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -91,7 +99,10 @@
       <workItem from="1633341018649" duration="1820000" />
       <workItem from="1633343087117" duration="917000" />
       <workItem from="1633348098187" duration="1799000" />
-      <workItem from="1633350873895" duration="904000" />
+      <workItem from="1633350873895" duration="1689000" />
+      <workItem from="1633353548828" duration="1330000" />
+      <workItem from="1633355043130" duration="301000" />
+      <workItem from="1633358255685" duration="924000" />
     </task>
     <servers />
   </component>
