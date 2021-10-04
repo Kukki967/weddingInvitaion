@@ -44,9 +44,19 @@ html, body {
   font-color: #95DAC1;
 }
 
+
 .hero {
-  background-image: url('homepage.svg');
+  background-image: url('asstha_shashank.jpeg');
   background-size: cover;
+  font-family: 'Raleway', sans-serif;
+}
+
+.hero_ {
+  /*background-image: url(https://picsum.photos/id/25/1920/1080);*/
+  background: linear-gradient(rgba(153, 110, 109, 0.65), rgba(153, 110, 109, 0.65)), rgba(0, 0, 0, 0.55) url("homepage.svg") no-repeat;
+  /*background-attachment: fixed;*/
+  background-size: cover;
+  /*box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);*/
   font-family: 'Raleway', sans-serif;
 }
 
