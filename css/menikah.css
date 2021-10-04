@@ -44,18 +44,9 @@ html, body {
   font-color: #95DAC1;
 }
 
-
 .hero {
   background-image: url('homepage.svg');
   background-size: cover;
-}
-
-.hero_ {
-  /*background-image: url(https://picsum.photos/id/25/1920/1080);*/
-  background: linear-gradient(rgba(153, 110, 109, 0.65), rgba(153, 110, 109, 0.65)), rgba(0, 0, 0, 0.55) url("homepage.svg") no-repeat;
-  /*background-attachment: fixed;*/
-  background-size: cover;
-  /*box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);*/
   font-family: 'Raleway', sans-serif;
 }
 
@@ -96,6 +87,7 @@ html, body {
   padding-left: 15px;
 }
 
+
 .space40px{
   height: 40px;
 }
@@ -133,6 +125,36 @@ html, body {
   padding: 80px 40px;
 }
 
+.main-content .section-light.regular-section {
+  padding-bottom: 80px;
+}
+
+.main-content .section-light.regular-section .is-larger {
+  font-size: 1rem;
+}
+
+@media (max-width: 599px) {
+  .main-content .section-light.regular-section .about-links {
+    text-align: center;
+  }
+}
+
+.main-content .section-light.skills {
+  padding: 100px;
+}
+
+@media (max-width: 599px) {
+  .main-content .section-light.skills {
+    padding: 50px 20px 20px;
+  }
+}
+
+.main-content .section-color.pertanyaan {
+  padding: 100px;
+  background-color: #95DAC1;
+  color: white;
+}
+
 /*** font style start ***/
 
 .main-content .section-title {
@@ -143,30 +165,33 @@ html, body {
 }
 
 .bodytext {
-  font-size: 2rem;
+  font-size: 1.5rem;
   color: #22577A;
 
 }
 .titleS {
-  font-size: 1.5em;
+  font-size: 1rem;
   color: #22577A;
 }
 .sloganText {
-  font-size: 1.4em;
+  font-size: 1.5rem;
   color: #22577A;
 }
 .coupleNameText {
-  font-size: 2em;
+  font-size: 2rem;
   color: #E05D5D;
 }
 
 .contactIcon {
   color: #22577A;
   padding: 4px;
+  font-size: 1rem;
+
 }
 
+
 .firmName {
-  font-size: 18px;
+  font-size: 1.5rem;
   color: #22577A;
   padding: 4px;
 }
@@ -186,7 +211,7 @@ html, body {
 .hero .subtitle {
   padding-top: 3px;
   padding-bottom: 35px;
-  font-size: 1.5em;
+  font-size: 1.5rem;
   font-weight: 700;
   color: #E05D5D;
 
@@ -195,7 +220,7 @@ html, body {
 .footer p {
   color: #22577A;
   font-weight: 500;
-  font-size: 20pt;
+  font-size: 10pt;
   display: inline-block;
   vertical-align: middle;
 }
@@ -210,7 +235,7 @@ html, body {
   padding-top: 0;
 }
 .fh5co-contact-info ul li.phone:before {
-  font-size: 30px;
+  font-size: 1.5rem;
   padding-top: 10px;
   content: "\e9f4";
 }
@@ -228,6 +253,7 @@ html, body {
   border-top-right-radius: 5px;
   border-top-left-radius: 5px;
   color: whitesmoke;
+
 }
 
 
@@ -238,9 +264,12 @@ html, body {
   border-bottom-right-radius: 3px;
   border-bottom-left-radius: 3px;
 }
+
 .fh5co-social-icons {
   margin: 0;
   padding: 0;
+  font-size: 1.5rem;
+
 }
 .fh5co-social-icons li {
   margin: 0;
@@ -262,7 +291,7 @@ html, body {
   padding-right: 10px;
 }
 .fh5co-social-icons li a i {
-  font-size: 30px;
+  font-size: 20px;
 }
 
 .divider {
@@ -329,21 +358,20 @@ body.preloader-site {
 .btn-cta:hover {
   color:white;
   background-color: #95DAC1;
-  font-size: 1.2em;
+  font-size: 1.5rem;
   border-radius: 10px;
   border: 2px solid #95DAC1;
-  width:  350px;
-  height: 75px;
+  width:  210px;
+  height: 65px;
   align-items: center;
   margin: 1rem;
 }
 
 .btn-cta {
   background-color: #95DAC1;
-  width:  210px;
   height: 65px;
   color: white;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   border: 2px solid #95DAC1;
   border-radius: 10px;
   align-items: center;
@@ -373,17 +401,4 @@ body.preloader-site {
   background-position: bottom -30px center;
   background-repeat: no-repeat;
   background-size: initial;
-}
-
-
-.card {
-  transform-style: preserve-3d;
-  min-height: 30vh;
-  width: 100%;
-  border-radius: 30px;
-  padding-top: 1rem;
-  padding-bottom: 2rem;
-  border: 2px solid #D4ECDD;
-  background-color: #B8DFD8;
-  box-shadow: 0 20px 20px rgba(0, 0, 0, 0.2), 0 0 50px rgba(0, 0, 0, 0.2);
 }
