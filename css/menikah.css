@@ -33,7 +33,7 @@ html, body {
   line-height: 38px;
   font-weight: 600;
   letter-spacing: 1px;
-  font-size: 2vw;
+  font-size: 1rem;
 }
 
 .navbar-item.is-active{
@@ -61,7 +61,7 @@ html, body {
 
 
 .hero .hero-foot {
-  height: 100px;
+  height: 50px;
   background: white;
   box-shadow: 0 2px 15px rgba(0, 0, 0, 0.082);
 }
@@ -73,14 +73,15 @@ html, body {
 }
 
 .hero .hero-foot .hero-foot--wrapper {
-  margin: 10px auto;
-  height: 70px;
+  margin: 7px auto;
+  height: 50px;
 }
 
 .hero .hero-foot .hero-foot--wrapper .hero-menu-desktop {
-  line-height: 70px;
+  line-height: 38px;
+  font-weight: 600;
   letter-spacing: 1px;
-  font-size: 2.5vw;
+  font-size: 1rem;
 }
 #menu ul{
   list-style: none;
@@ -135,58 +136,57 @@ html, body {
 /*** font style start ***/
 
 .main-content .section-title {
+  font-weight: 900;
   color: #22577A;
-  font-size: 5vw;
+  font-size: 2em;
   /*padding-bottom: 60px;*/
 }
 
 .bodytext {
-  font-size: 4vw;
+  font-size: 2rem;
   color: #22577A;
 
 }
 .titleS {
-  font-size: 4vw;
+  font-size: 1.5em;
   color: #22577A;
 }
 .sloganText {
-  font-size: 2.5vw;
+  font-size: 1.4em;
   color: #22577A;
 }
-
 .coupleNameText {
-  font-size: 7vw;
+  font-size: 2em;
   color: #E05D5D;
 }
 
 .contactIcon {
   color: #22577A;
   padding: 4px;
-  font-size: 2vw;
 }
 
 .firmName {
-  font-size: 3vw;
+  font-size: 18px;
   color: #22577A;
-  padding: 10px;
+  padding: 4px;
 }
 
 .hero .title {
   font-weight: 500;
-  font-size: 5vw;
+  font-size: 2em;
   color: #22577A;
 }
 
 .hero .subtitle-copy {
   color: #22577A;
-  font-size: 2.5vw;
+  font-size: 1.5em;
 }
 
 
 .hero .subtitle {
   padding-top: 3px;
   padding-bottom: 35px;
-  font-size: 2.5vw;
+  font-size: 1.5em;
   font-weight: 700;
   color: #E05D5D;
 
@@ -195,7 +195,7 @@ html, body {
 .footer p {
   color: #22577A;
   font-weight: 500;
-  font-size: 2.5vw;
+  font-size: 20pt;
   display: inline-block;
   vertical-align: middle;
 }
@@ -210,7 +210,7 @@ html, body {
   padding-top: 0;
 }
 .fh5co-contact-info ul li.phone:before {
-  font-size: 2vw;
+  font-size: 30px;
   padding-top: 10px;
   content: "\e9f4";
 }
@@ -262,7 +262,7 @@ html, body {
   padding-right: 10px;
 }
 .fh5co-social-icons li a i {
-  font-size: 2.5vw;
+  font-size: 30px;
 }
 
 .divider {
@@ -329,7 +329,7 @@ body.preloader-site {
 .btn-cta:hover {
   color:white;
   background-color: #95DAC1;
-  font-size: 2vw;
+  font-size: 1.2em;
   border-radius: 10px;
   border: 2px solid #95DAC1;
   width:  350px;
@@ -340,9 +340,10 @@ body.preloader-site {
 
 .btn-cta {
   background-color: #95DAC1;
-  height: 100px;
+  width:  210px;
+  height: 65px;
   color: white;
-  font-size: 2.5vw;
+  font-size: 1.2rem;
   border: 2px solid #95DAC1;
   border-radius: 10px;
   align-items: center;
