@@ -52,7 +52,7 @@ html, body {
 
 .hero_ {
   /*background-image: url(https://picsum.photos/id/25/1920/1080);*/
-  background: linear-gradient(rgba(153, 110, 109, 0.65), rgba(153, 110, 109, 0.65)), rgba(0, 0, 0, 0.55) url("wed.jpg") no-repeat;
+  background: linear-gradient(rgba(153, 110, 109, 0.65), rgba(153, 110, 109, 0.65)), rgba(0, 0, 0, 0.55) url("homepage.svg") no-repeat;
   /*background-attachment: fixed;*/
   background-size: cover;
   /*box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);*/
@@ -138,25 +138,25 @@ html, body {
 .main-content .section-title {
   font-weight: 900;
   color: #22577A;
-  font-size: 1.5rem;
+  font-size: 2em;
   /*padding-bottom: 60px;*/
 }
 
 .bodytext {
-  font-size: 1.2rem;
+  font-size: 2rem;
   color: #22577A;
 
 }
 .titleS {
-  font-size: 1.5rem;
+  font-size: 1.5em;
   color: #22577A;
 }
 .sloganText {
-  font-size: 1rem;
+  font-size: 1.4em;
   color: #22577A;
 }
 .coupleNameText {
-  font-size: 1.5rem;
+  font-size: 2em;
   color: #E05D5D;
 }
 
@@ -173,20 +173,20 @@ html, body {
 
 .hero .title {
   font-weight: 500;
-  font-size: 3rem;
+  font-size: 2em;
   color: #22577A;
 }
 
 .hero .subtitle-copy {
   color: #22577A;
-  font-size: 1.3rem;
+  font-size: 1.5em;
 }
 
 
 .hero .subtitle {
   padding-top: 3px;
   padding-bottom: 35px;
-  font-size: 1.3rem;
+  font-size: 1.5em;
   font-weight: 700;
   color: #E05D5D;
 
@@ -195,7 +195,7 @@ html, body {
 .footer p {
   color: #22577A;
   font-weight: 500;
-  font-size: 10pt;
+  font-size: 20pt;
   display: inline-block;
   vertical-align: middle;
 }
@@ -210,7 +210,7 @@ html, body {
   padding-top: 0;
 }
 .fh5co-contact-info ul li.phone:before {
-  font-size: 23px;
+  font-size: 30px;
   padding-top: 10px;
   content: "\e9f4";
 }
@@ -262,7 +262,7 @@ html, body {
   padding-right: 10px;
 }
 .fh5co-social-icons li a i {
-  font-size: 20px;
+  font-size: 30px;
 }
 
 .divider {
@@ -329,11 +329,11 @@ body.preloader-site {
 .btn-cta:hover {
   color:white;
   background-color: #95DAC1;
-  font-size: 1.2rem;
+  font-size: 1.2em;
   border-radius: 10px;
   border: 2px solid #95DAC1;
-  width:  210px;
-  height: 65px;
+  width:  350px;
+  height: 75px;
   align-items: center;
   margin: 1rem;
 }
