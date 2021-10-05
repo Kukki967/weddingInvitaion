@@ -44,16 +44,23 @@ html, body {
   font-color: #95DAC1;
 }
 
+/*
+.hero {
+  background-image: url('homepage.svg');
+  background-size: cover;
+  font-family: 'Raleway', sans-serif;
+}
+*/
+
 .hero {
   background-image: url('asstha_shashank.jpeg');
   background: linear-gradient(rgba(150, 110, 109, 0.65), rgba(13, 110, 109, 0.6)), rgba(0, 0, 0, 0.5) url('asstha_shashank.jpeg') no-repeat;
-
   background-size: cover;
 }
 
 
 .hero .hero-foot {
-  height: 100px;
+  height: 50px;
   background: white;
   box-shadow: 0 2px 15px rgba(0, 0, 0, 0.082);
 }
@@ -66,14 +73,14 @@ html, body {
 
 .hero .hero-foot .hero-foot--wrapper {
   margin: 7px auto;
-  height: 70px;
+  height: 50px;
 }
 
 .hero .hero-foot .hero-foot--wrapper .hero-menu-desktop {
-  line-height: 70px;
+  line-height: 38px;
   font-weight: 600;
   letter-spacing: 1px;
-  font-size: 2rem;
+  font-size: 1rem;
 }
 #menu ul{
   list-style: none;
@@ -161,59 +168,59 @@ html, body {
 .main-content .section-title {
   font-weight: 900;
   color: #22577A;
-  font-size: 2em;
+  font-size: 1.5rem;
   /*padding-bottom: 60px;*/
 }
 
 .bodytext {
-  font-size: 1.5rem;
+  font-size: 18px;
   color: #22577A;
 
 }
 .titleS {
-  font-size: 1rem;
-  color: #22577A;
-}
-.sloganText {
   font-size: 1.5rem;
   color: #22577A;
 }
+.sloganText {
+  font-size: 15px;
+  color: #22577A;
+}
 .coupleNameText {
-  font-size: 2rem;
+  font-size: 24px;
   color: #E05D5D;
 }
 
 .contactIcon {
   color: #22577A;
   padding: 4px;
-  font-size: 1.5rem;
-
 }
 
+
 .firmName {
-  font-size: 1.5rem;
+  font-size: 18px;
   color: #22577A;
   padding: 4px;
 }
 
 .hero .title {
   font-weight: 500;
-  font-size: 2em;
+  font-size: 3rem;
   color: #22577A;
 }
 
 .hero .subtitle-copy {
   color: #22577A;
-  font-size: 1.5em;
+  font-size: 1.3rem;
 }
 
 
 .hero .subtitle {
   padding-top: 3px;
   padding-bottom: 35px;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   font-weight: 700;
   color: #E05D5D;
+
 }
 
 .footer p {
@@ -234,7 +241,7 @@ html, body {
   padding-top: 0;
 }
 .fh5co-contact-info ul li.phone:before {
-  font-size: 1.5rem;
+  font-size: 23px;
   padding-top: 10px;
   content: "\e9f4";
 }
@@ -252,7 +259,6 @@ html, body {
   border-top-right-radius: 5px;
   border-top-left-radius: 5px;
   color: whitesmoke;
-
 }
 
 
@@ -263,12 +269,9 @@ html, body {
   border-bottom-right-radius: 3px;
   border-bottom-left-radius: 3px;
 }
-
 .fh5co-social-icons {
   margin: 0;
   padding: 0;
-  font-size: 1.5rem;
-
 }
 .fh5co-social-icons li {
   margin: 0;
@@ -337,16 +340,7 @@ html, body {
   -webkit-box-shadow: inset 0 0 6px #B8DFD8;
   background-color: #95DAC1;
 }
-.grid-container {
-  display: grid;
-  grid-template-columns: auto auto;
-  padding: 10px;
-  align-content: center;
-}
 
-.grid-item {
-  text-align: center;
-}
 
 body.preloader-site {
   overflow: hidden;
@@ -366,7 +360,7 @@ body.preloader-site {
 .btn-cta:hover {
   color:white;
   background-color: #95DAC1;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   border-radius: 10px;
   border: 2px solid #95DAC1;
   width:  210px;
@@ -377,9 +371,10 @@ body.preloader-site {
 
 .btn-cta {
   background-color: #95DAC1;
+  width:  210px;
   height: 65px;
   color: white;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   border: 2px solid #95DAC1;
   border-radius: 10px;
   align-items: center;
@@ -409,6 +404,31 @@ body.preloader-site {
   background-position: bottom -30px center;
   background-repeat: no-repeat;
   background-size: initial;
+}
+
+
+.card {
+  transform-style: preserve-3d;
+  min-height: 30vh;
+  width: 100%;
+  border-radius: 30px;
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+  border: 2px solid #D4ECDD;
+  background-color: #B8DFD8;
+  box-shadow: 0 20px 20px rgba(0, 0, 0, 0.2), 0 0 50px rgba(0, 0, 0, 0.2);
+}
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  padding: 10px;
+  align-content: center;
+}
+
+.grid-item {
+  text-align: center;
 }
 
 
@@ -537,3 +557,4 @@ body.preloader-site {
 
   }
 }
+
