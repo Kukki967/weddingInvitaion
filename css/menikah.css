@@ -82,7 +82,7 @@ html, body {
   line-height: 38px;
   font-weight: 600;
   letter-spacing: 1px;
-  font-size: 1rem;
+  font-size: 20px;
 }
 #menu ul{
   list-style: none;
@@ -143,22 +143,6 @@ html, body {
   font-size: 1rem;
 }
 
-@media (max-width: 599px) {
-  .main-content .section-light.regular-section .about-links {
-    text-align: center;
-  }
-}
-
-.main-content .section-light.skills {
-  padding: 100px;
-}
-
-@media (max-width: 599px) {
-  .main-content .section-light.skills {
-    padding: 50px 20px 20px;
-  }
-}
-
 .main-content .section-color.pertanyaan {
   padding: 100px;
   background-color: #95DAC1;
@@ -170,12 +154,13 @@ html, body {
 .main-content .section-title {
   font-weight: 900;
   color: #22577A;
-  font-size: 1.5rem;
+  font-size: 30px;
   /*padding-bottom: 60px;*/
 }
 
 .bodytext {
   font-size: 18px;
+  padding-bottom: 35px;
   color: #22577A;
 
 }
@@ -184,51 +169,28 @@ html, body {
   color: #22577A;
 }
 .sloganText {
-  font-size: 15px;
+  font-size: 20px;
   color: #22577A;
-}
-.coupleNameText {
-  font-size: 24px;
-  color: #E05D5D;
-}
-
-.contactIcon {
-  color: #22577A;
-  padding: 4px;
-}
-
-
-.firmName {
-  font-size: 18px;
-  color: #22577A;
-  padding: 4px;
 }
 
 .hero .title {
   font-weight: 500;
-  font-size: 3rem;
+  font-size: 2em;
   color: #22577A;
 }
 
-.hero .subtitle-copy {
-  color: #22577A;
-  font-size: 1.3rem;
-}
-
-
-.hero .subtitle {
-  padding-top: 3px;
+.subtitle {
+  padding-top: 15px;
   padding-bottom: 35px;
-  font-size: 1.3rem;
+  font-size: 30px;
   font-weight: 700;
-  color: #E05D5D;
 
 }
 
 .footer p {
   color: #22577A;
   font-weight: 500;
-  font-size: 10pt;
+  font-size: 20px;
   display: inline-block;
   vertical-align: middle;
 }
@@ -237,15 +199,6 @@ html, body {
 
 .has-vertically-align {
   vertical-align: middle;
-}
-
-.main-content .no-padding-top {
-  padding-top: 0;
-}
-.fh5co-contact-info ul li.phone:before {
-  font-size: 23px;
-  padding-top: 10px;
-  content: "\e9f4";
 }
 
 
